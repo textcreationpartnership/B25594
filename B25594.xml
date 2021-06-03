@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lady Ivy having thought fit some short time before Easter-Term1687, to cause to be printed and published a paper intituled, An Abstract of the title to the lands in Wapping-Marsh ...</title>
+         </titleStmt>
+         <extent>Approx. 50KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25594</idno><idno type="EEBO-CITATION">27245325</idno>
+  <idno type="VID">205732</idno>
+  <idno type="EEBO-PROQUEST">2240897654</idno>
+  
+            <idno type="STC">Wing L166C</idno>
+            <idno type="OCLC">27245325</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205732)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1723:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lady Ivy having thought fit some short time before Easter-Term1687, to cause to be printed and published a paper intituled, An Abstract of the title to the lands in Wapping-Marsh ...</title>
+               </titleStmt>
+               <extent>[2], 9, [4] p., 1 folded leaf of plates : map.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Other title information from first lines of text.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Includes six unnumbereed pages of ms. notes.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ivy, Theodosia Stepkins, --  Lady, d. 1696?</term>
+               <term type="topical_term">Real property --  England.</term>
+               <term type="topical_term">Land titles --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205732:1"/>
+            <head>The Lady Ivy</head>
+            <p>HAving thought fit some short time before <hi>Easter</hi>-Term, 1687. to cause to be printed and published a Paper intituled, An Abstract of the Title to the Lands in <hi>Wapping</hi>-Marsh, and other Places neer adjoyning, belonging to the Mannor of <hi>Stepney</hi> or <hi>Stebonheath,</hi> called <hi>Ewell,</hi> alias <hi>Tile-house,</hi> thereby ma<g ref="char:EOLhyphen"/>king Title in general to more Ground (great part of it built) than the City of <hi>London</hi> stands upon; but particularly to none of the Lands in question. She af<g ref="char:EOLhyphen"/>firms, That the 14th of <hi>June</hi> 1573. 15 <hi>Eliz. John Stepkins,</hi> one of her Ancestors, being in<g ref="char:EOLhyphen"/>debted to the Queen as Surety for <hi>William Patent,</hi> in the 19th of <hi>Eliz. Stepkins</hi>'s Lands were Extended, and that therein are exprest most of the Lands mentioned in the Extent of 4 <hi>Eliz.</hi> taken out against <hi>Richard Hill</hi>'s Lands, upon a Statute entred into by him 32 <hi>Hen.</hi> 8. being 113 Acres, and particularly all the Lands now in dispute; which is confidently affirm'd, but very untrue: for in the Deed from <hi>Stepkins,</hi> to convey all his Lands to the Queens Tru<g ref="char:EOLhyphen"/>stees, and in the Extent 19 <hi>Eliz.</hi> and the Lease from the Queen to <hi>Alice Stepkins,</hi> and the Release from King <hi>James,</hi> 7 <hi>Jac.</hi> to <hi>John Stepkins,</hi> all the particulars of <hi>Stepkins</hi>'s Lands are Enumerated, and the Tenants names, whereof there was but a few Acres lying in the Marsh mentioned as convey'd to Trustees for the Queen, and fifty Acres only Extended (being all they had) in <hi>Wapping</hi>-Marsh at that time, but not the least part of the Lands in dispute named, they being all that time (and long before and ever since) in other mens possession, under whom Sir <hi>Anthony Bateman,</hi> and the Trustees for <hi>Rebecca Whichcot,</hi> purchased.</p>
+            <p>And lest the World should by the said Paper be made to believe that the Lands in que<g ref="char:EOLhyphen"/>stion were (as part of the Land then belonging to <hi>Stepkins</hi>) assigned to the use of the Crown and there remained till 1609, and so must have been <hi>Stepkins</hi>'s Land at that time,</p>
+            <p>The Creditors of Sir <hi>Anthony Bateman</hi> have thought fit to print so much of their Ti<g ref="char:EOLhyphen"/>tle as remains on Record, to ten Acres of Freehold, and twelve Acres of Copyhold-Land, as have also the Heirs of <hi>Rebecca Whichcot,</hi> to above three, and not exceeding four Acres, all lying in <hi>Wapping</hi>-Marsh, and desire the Readers to take notice of the Boundaries in the old Deeds by which this Land is described, exactly answered by the Lands in dis<g ref="char:EOLhyphen"/>pute: And that several of the Sales made (on Record) of the Freehold, and Surrenders (also on Record) of the Copyhold, were made during the time that the Estate of the <hi>Stepkinses</hi> did remain in the Crown, and so cannot be reasonably thought to have been any part of that Land.</p>
+            <div type="section">
+               <head>The Creditors Title to Ten Acres of Freehold-Land.</head>
+               <p>
+                  <hi>JOhn Nelthorpe,</hi> and <hi>Elizabeth</hi> his Wife, Daughter and sole Heir of <hi>John Starkey,</hi>
+                  <note place="margin">27 <hi>July,</hi> 10 <hi>Eliz.</hi> 1568.</note> conveys by Deed enrolled to <hi>Richard Sleford</hi> and his Heirs, all those ten Acres of Marsh-ground, with its Appurtenances, in <hi>Wapping</hi>-Marsh in the County of <hi>Middlesex,</hi> between the Lands late of <hi>Jasper Hill,</hi> and <hi>Gravel-Lane,</hi> on every part.</p>
+               <p>These Lands lie butting on one side on <hi>Gravel-lane,</hi>
+                  <note place="margin">Note.</note> and on the Copyhold late <hi>Hill</hi>'s on the other, <hi>Jasper Hill</hi> being the man that last surrendred the same, even to one of the <hi>Stepkinses,</hi> but the 4th of <hi>Eliz.</hi> before, as appears by Copy of Court-Roll on Record, 5 <hi>Eliz.</hi> 1563.</p>
+               <p>A Fine by <hi>Nelthorpe</hi> and his Wife, pursuant to the Deed.</p>
+               <p>
+                  <hi>Richard Sleford</hi> sells the same ten Acres to <hi>Henry Tailford,</hi>
+                  <note place="margin">12 <hi>Oct.</hi> 24 <hi>Eliz.</hi> 1582.</note> but butts it (as it did at that time) West on <hi>Gravel-lane,</hi> Eastward on <hi>Glascock</hi>'s, and North on <hi>Stukeley</hi>'s Land.</p>
+               <p>The Land late <hi>Hill</hi>'s, was 23 <hi>Eliz.</hi> surrendred to <hi>Glascock,</hi> as appears by the Copy;<note place="margin">Note.</note> and that the North Buttal was on <hi>Stukeley</hi>'s Land, appears by the Sale <hi>Stukeley</hi> made of Land lying North of it, 4 <hi>Jacobi</hi> enrolled.</p>
+               <pb facs="tcp:205732:2"/>
+               <pb facs="tcp:205732:2"/>
+               <pb facs="tcp:205732:3"/>
+               <pb facs="tcp:205732:3"/>
+               <pb facs="tcp:205732:4"/>
+               <figure>
+                  <figDesc>map of Desputed Land</figDesc>
+                  <p>6 Acres Sold to Thomas Eastfeild alias Lucas by John Stepk<gap reason="illegible" resp="#uom" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> in Elis N<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w S.<seg rend="sup">r</seg> Caen Iames his Land.</p>
+                  <p>EAST</p>
+                  <p>Sewer</p>
+                  <p>Here lyes 4 Acres of Land down to the Thames through which Cora<g ref="char:EOLhyphen"/>rel Lane is made with the Ground wherein here<gap reason="illegible" resp="#uom" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> was both a Pond and Island whereof the 3 upperm<gap reason="illegible" resp="#uom" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Acres were Sold to M<seg rend="sup">r</seg> Weed <gap reason="illegible" resp="#uom" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and the rest to M<seg rend="sup">r</seg>athbear 1656 both by deeds Inre<gap reason="illegible" resp="#uom" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed by Lady Ivy</p>
+                  <p>Wa<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Pond</p>
+                  <p>Was now Ar lo y<seg rend="sup">e</seg> Bl<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w</p>
+                  <p>
+                     <gap reason="illegible" resp="#uom" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> libears Land <gap reason="illegible" resp="#uom" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <p>Island</p>
+                  <p>New Crane Staires</p>
+                  <p>y<seg rend="sup">e</seg> River of Thames</p>
+                  <p>New Gravel Lane</p>
+                  <p>New Gravel Lane</p>
+                  <p>Ratcliffe High W<gap reason="illegible" resp="#uom" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </p>
+                  <p>The Deanes Linches</p>
+                  <p>Land Sold by Lady Ivy 1656 to Weed Buttins South on y<seg rend="sup">e</seg> Sewwer that Devides it from Batemans Land</p>
+                  <p>Sewer or Pond</p>
+                  <p>7 Acres Co<gap reason="illegible" resp="#uom" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y Hold late held by Hamm<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</p>
+                  <p>22 Acres within the Red Line whereof to Butting all along West on Gravel Lane down to the Prickt Lane East on Hills afterwards Glasecks and North on - Sh<gap reason="illegible" resp="#uom" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>keleys Land to Claimd as 10 Acres of Freehold as 12 Acres of Co<gap reason="illegible" resp="#uom" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y hold that was late Mills in the 10<seg rend="sup">th</seg> and Glas<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ocks in the 24<seg rend="sup">th</seg> Eliz</p>
+                  <p>10 Acres Free Hold butting West on Old Gravell Lane</p>
+                  <p>Here was a Rope Walk</p>
+                  <p>5 Acres Co<gap reason="illegible" resp="#uom" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y hold mixt y<seg rend="sup">e</seg> Red and Prickt Line Lot by Richard Glover to Aaron Williams for <gap reason="illegible" resp="#uom" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> from 1630 And y<seg rend="sup">e</seg> Lease thereof purchased by the Lady Ivy 1659 <gap reason="illegible" resp="#uom" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thereby get the Possession</p>
+                  <p>King Street in Wa<gap reason="illegible" resp="#uom" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ing Marsh</p>
+                  <p>Prusons Island</p>
+                  <p>a-boue 3</p>
+                  <p>but not within</p>
+                  <p>4 Acres the Blow Lane</p>
+                  <p>Sluce</p>
+                  <p>114 Ea-<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</p>
+                  <p>Bridwell Land betwixt Prusens Island</p>
+                  <p>King Edward Stairs</p>
+                  <p>SOUTH</p>
+                  <p>NORTH</p>
+                  <p>Starch House Stewkeleys now <gap reason="illegible" resp="#uom" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Land</p>
+                  <p>and Old Gravell Lane</p>
+                  <p>Old Gravel Lane Old Gravel Lane</p>
+                  <p>WEST</p>
+                  <p>Scaled of Feet</p>
+               </figure>
+               <pb n="1" facs="tcp:205732:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:205732:5"/>
+               <p>
+                  <note place="margin">Note.</note>There are two <hi>Gravel-lanes,</hi> one called <hi>Old Gravel-lane,</hi> the other <hi>New Gravel-lane</hi> (be<g ref="char:EOLhyphen"/>tween which all the Land now in question does lie) but that <hi>Old Gravel-lane,</hi> on which these Lands Abutt West, was the <hi>Gravel-lane</hi> meant by these Deeds, is plain; for that <hi>New Gravel-lane</hi> was a Rope-Walk long since the memory of many alive, and sold by Lady <hi>Ivy</hi> her self, with the Land on each side of it, to <hi>Brian H<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rrison,</hi> Trustee for <hi>Wil<g ref="char:EOLhyphen"/>liam Word,</hi> by Deed enrolled, dated the first of <hi>July</hi> 1658. by the name of three Acres, heretofore used for a Rope-ground, and now converted into a Street called <hi>New Gravel-lane.</hi>
+               </p>
+               <p>
+                  <hi>Henry Tailford</hi> had a Daughter who was his Heir, and married <hi>John Crosse,</hi> who so became seized thereof.</p>
+               <p>
+                  <note place="margin">34 &amp; 35 <hi>Eliz. Trin.</hi> 43 <hi>Eliz.</hi> 1601. <hi>Hill.</hi> 9 <hi>Jac.</hi> 1611. 5 <hi>Aug.</hi> 13 <hi>Jac.</hi> 1615. 14 <hi>Aug.</hi> 1647.</note>A Recovery <hi>per Crosse</hi> and his Wife.</p>
+               <p>
+                  <hi>Crosse</hi> and his Wife levied Fine to <hi>Bennet.</hi>
+               </p>
+               <p>
+                  <hi>Richard Bennet</hi> and <hi>Lettice</hi> his Wife, levy a Fine to <hi>Richard Glover.</hi>
+               </p>
+               <p>
+                  <hi>Richard Glover</hi> settles by his Will, these Lands, among others, on his Son <hi>Richard;</hi> who dying about 1646. left a Son whole name was also <hi>Richard.</hi>
+               </p>
+               <p>
+                  <hi>Richard Glover</hi> the Grandson's Conveyance enrollod, to Sir <hi>Anthony Bateman</hi> and others of the premisses, among other things, in Trust to pay Debts; and a Lease of five Acres, part of the Lands in question from <hi>Richard Glover,</hi> to <hi>Aaron Williams</hi> for fifty years, from 1630. at 20 <hi>l.</hi> yearly, recited in the Schedule to it, which Lease Lady <hi>Ivy</hi> purchased in 1659. for about 2000 <hi>l.</hi> and so got the possession of it. See her Answer to Sir <hi>Robert Cotton</hi>'s Bill put in, in 1676.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Trin.</hi> Term. 1656.</note>
+                  <hi>Smith, Harrington, Anthony Bateman,</hi> and <hi>Richard Glover</hi> the Grandson, levy a Fine to <hi>Tirrill</hi> and <hi>Harris,</hi> Trustees for <hi>Bateman.</hi>
+               </p>
+               <p>
+                  <note place="margin">15 <hi>July</hi> 1656.</note>A Deed enrolled, reciting a Deed from the Parties to the aforesaid Fine, to <hi>Tirrill</hi> and <hi>Harris,</hi> the 20th of <hi>June</hi> last; whereby <hi>Tarrill</hi> and <hi>Harris</hi> convey the said Lands to <hi>Anthony Bateman</hi> and his Heirs, who held the possession thereof, and received the Rents till he failed about 1666. and under whom Sir <hi>Robert Cotton,</hi> as Trustee for the Creditors, claims, and in <hi>Easter</hi>-Term 1686. after a full Hearing in the <hi>Kings-Bench,</hi> had a Verdict for this, and the twelve Acres Copyhold-Land.</p>
+            </div>
+            <div type="section">
+               <head>Title to the Copyhold-Land.</head>
+               <p>
+                  <note place="margin">5 <hi>Ed.</hi> 6. 1551.</note>
+                  <hi>EDward Ascugh</hi> and his Wife, surrender twelve Acres in <hi>Wall</hi> and <hi>Wapping</hi>-Marsh, to <hi>Ri<g ref="char:EOLhyphen"/>chard Hill.</hi>
+               </p>
+               <p>
+                  <note place="margin">5 <hi>Eliz.</hi> 1563.</note>Copy whereby <hi>John Stepkins</hi> surrenders the twelve Acres to <hi>John Harding,</hi> and recites they had been <hi>Alwine</hi>'s and <hi>Gibson</hi>'s, and that he had them by Grant of the Lord of the Mannor, and Release of <hi>Jasper Hill.</hi>
+               </p>
+               <p>
+                  <note place="margin">Note.</note>There is not known to be any but this twelve Acres Copyhold, in the whole Marsh.</p>
+               <p>
+                  <note place="margin">13 <hi>Eliz.</hi> 1571.</note>
+                  <hi>John Harding</hi> surrenders to <hi>John Osborne.</hi>
+               </p>
+               <p>
+                  <note place="margin">18 <hi>Eliz.</hi> 1576.</note>
+                  <hi>John Osborne</hi> surrenders to <hi>Richard Wotton</hi> and <hi>Robert Harrell.</hi>
+               </p>
+               <p>
+                  <note place="margin">20 <hi>Eliz.</hi> 1576.</note>
+                  <hi>John Osborne</hi> having forfeited for having Lett without License, the Lord of the Mannor ad<g ref="char:EOLhyphen"/>mitted <hi>Walthal</hi> and <hi>Finch.</hi>
+               </p>
+               <p>
+                  <note place="margin">23 <hi>Eliz.</hi> 1581.</note>
+                  <hi>Walthal</hi> and <hi>Finch</hi> surrender to <hi>Jo. Glascock.</hi>
+               </p>
+               <p>
+                  <note place="margin">26 <hi>Eliz.</hi> 1584.</note>
+                  <hi>Glascock</hi> surrenders to <hi>Tho. Cook</hi> and his Wife.</p>
+               <p>
+                  <note place="margin">1 <hi>Jac.</hi> 1603. 1616.</note>
+                  <hi>Cock</hi> and his Wife surrender to <hi>Richard Glover,</hi> Citizen and Pewterer of <hi>London.</hi>
+               </p>
+               <p>
+                  <hi>Richard Glover</hi> dying, the Copyhold being Gavelkind, fell to his several Sons, who all after surrendred to <hi>Richard</hi> the Eldest; who dying in 1646. his Son (after admittance) in 1647. surrendred to <hi>Robert Smith</hi> and <hi>Anthony Bateman,</hi> who was (till he broke) in possession, and received the Rents.</p>
+               <p>Sir <hi>Robert Smith</hi> died 12 <hi>June,</hi> 21 <hi>Car.</hi> 2. so Sir <hi>Anthony</hi> was the Survivour.</p>
+               <p>Sir <hi>Anthony</hi> became a Bankrupt. See the Commission.</p>
+               <p>
+                  <note place="margin">27 <hi>Nov.</hi> 25 <hi>Car.</hi> 2.</note>The Commissioners Assignment of the ten Acres Freehold, and twelve Acres Copyhold to Sir <hi>Robert Cotton,</hi> enrolled.</p>
+               <p>
+                  <note place="margin">13 <hi>May,</hi> 26 <hi>C.</hi> 2 <hi>Easter</hi>-Term, 1686.</note>Sir <hi>Robert Cotton</hi> admitted to the twelve Arcres Copyhold.</p>
+               <p>A Verdict for Sir <hi>Robert Cotton.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="3" facs="tcp:205732:5"/>
+               <head>The Heirs of <hi>Whichcot</hi>'s Title to <hi>Pruson</hi>'s Island.</head>
+               <p>
+                  <hi>PEter Osborne</hi> conveys the Breach, <hi>&amp;c.</hi> to <hi>Woodshaw,</hi>
+                  <note place="margin">25 <hi>Eliz.</hi> 1583.</note> by Estimation three (not exceeding four) Acres, butting <hi>East</hi> on a Sluce, <hi>South</hi> on the <hi>Thames, North</hi> on <hi>Wapping</hi>-Marsh, <hi>West</hi> on a piece of Ground, next a-butting and adjoyning on a certain Way or Lane there, called <hi>Gravel-Lane.</hi> Enroll'd.</p>
+               <p>
+                  <hi>James Woodshaw</hi> conveys the same to <hi>Richard Glover.</hi> Livery and Seisin Endorsed.<note place="margin">20 <hi>M.</hi> 3 <hi>Ja.</hi> 1604. 1616.</note>
+               </p>
+               <p>
+                  <hi>Richard Glover</hi> Devises, by general Words, <hi>Wapping</hi>-Land to <hi>Richard Glover</hi> his Son. Book of <hi>Wills.</hi>
+               </p>
+               <p>The said <hi>Richard Glover</hi> conveys the same to <hi>Warren</hi> and his Heirs. Enroll'd.<note place="margin">26 <hi>Mar.</hi> 1646.</note>
+               </p>
+               <p>The said <hi>Richard</hi> confirms the same to <hi>Warren.</hi> Enroll'd.<note place="margin">28 <hi>Mar.</hi> 1646.</note>
+               </p>
+               <p>
+                  <hi>Richard Glover,</hi> the Grand-son, confirms the same.<note place="margin">16 <hi>May</hi> 1646.</note>
+               </p>
+               <p>
+                  <hi>George Warren</hi> sells the same to <hi>Richard Lloyd</hi> and <hi>John Wicken.</hi> Enroll'd.<note place="margin">19 <hi>Mar.</hi> 1646.</note>
+               </p>
+               <p>
+                  <hi>Richard Lloyd</hi> and <hi>John Wicken,</hi> by Lease and Release, sell to <hi>William Crowder,</hi>
+                  <note place="margin">24 <hi>Apr.</hi> 1649. 25 <hi>Apr.</hi> 1649.</note>
+                  <hi>Thomas Jor<g ref="char:EOLhyphen"/>den, Thomas Horton,</hi> and <hi>John Jolliff,</hi> Trustees for <hi>Rebeca Whichcot,</hi> late <hi>Glover</hi>'s Wife.</p>
+               <p>
+                  <hi>Crowder, Jorden,</hi> and <hi>Horton,</hi> Die before 1680, <hi>John Jolliff</hi> in 1680, being the surviving Trustee, and in <hi>William Jolliff,</hi> his Son and Heir, the Inheritance of these Lands remains, in Trust for the Heirs of the said <hi>Rebecca Whichcot,</hi> to this Day: And,</p>
+               <p>
+                  <hi>Note,</hi> The Land now called <hi>Pruson</hi>'s Island, (which name it assuredly took from having been long in possession of one <hi>Pruson,</hi> under <hi>Glover</hi>'s Title) is above three, and not four Acres; butted <hi>East</hi> on (a place where there was) a Sluce, <hi>South</hi> on the <hi>Thames, North</hi> on <hi>Wapping</hi>-Marsh, and <hi>West</hi> on <hi>Bridewel</hi>-Hospital-Land, heretofore a piece of Ground which butted and adjoyned upon <hi>Gravel-Lane;</hi> and was held under <hi>Glover</hi>'s Title by Mrs <hi>Rebecca Whichcot,</hi> till outed by Lady <hi>Ivy,</hi> 1679.</p>
+               <p>And if Lady <hi>Ivy</hi> can shew what Land 'tis possible the ten Acres in <hi>Wapping</hi>-Marsh should be, but the Lands in question, butting <hi>West</hi> on <hi>Gravel-Lane,</hi> and where the twelve Acres of Copyhold in <hi>Wapping</hi>-Marsh should be, (that was late <hi>Hill</hi>'s in the 10th, and <hi>Glascock</hi>'s the 23d of <hi>Eliz.</hi>) and lying <hi>East</hi> of the last ten Acres, but the Lands in question, and which have been always enjoyed by those the Creditors Claim under, by Copy of Court Roll, since <hi>Edw.</hi> the Sixth's time, and where there should be three, and not exceeding four Acres, that butted <hi>East</hi> on a Sluce, <hi>South</hi> on the <hi>Thames, North</hi> on <hi>Wapping</hi>-Marsh, and <hi>West</hi> on a piece of Ground that butted on <hi>Gravel-Lane,</hi> unless the Ground now called <hi>Pruson</hi>'s Island, which really does so a butt, they will then quit their Claim to these Lands, which they o<g ref="char:EOLhyphen"/>therwise hope will at sometime or other be allowed to be theirs.</p>
+               <p>As to what Lady <hi>Ivy</hi> is pleased to say concerning the several Verdicts she has had for her Title, the Reader is hereby informed, That those Verdicts were got on producing of Deeds, which are not mentioned in her printed Paper, nor yet to be found on Record.</p>
+               <p>And as to what she is pleased to suggest concerning the Conviction of her Adversaries At<g ref="char:EOLhyphen"/>torney, one <hi>Johnson.</hi>
+               </p>
+               <p>
+                  <hi>Note,</hi> There was one <hi>Duffet,</hi> a notorious common Forger of Deeds, and an intimate Ac<g ref="char:EOLhyphen"/>quaintance of my Lady's: He first applied himself to Mr. <hi>Johnson</hi> as a Witness, without <hi>Johnson</hi>'s seeking to him, and discovering his Treaty with <hi>Johnson,</hi> drew him into a snare, being, as supposed, employed by some-body else.</p>
+               <p>As for the Records and Deeds, which made up three parts of her Paper, they are most of them such as were never made use of at any Tryal, and serve onely for a shew, and an a<g ref="char:EOLhyphen"/>musement, and when rightly considered, are nothing to the purpose at all.</p>
+               <p>And that the World may also see what Title, both on Record and otherwise, the Lady <hi>Ivy</hi> has yet been pleased to produce for the Lands in question, with what may reasonably be objected against it by Arguments, onely deduced from other Deeds on Records, the same is incerted here, and if any mistake be made in't, it is not wilfully done, and will be un<g ref="char:EOLhyphen"/>doubtedly Answered by Lady <hi>Ivy</hi>'s Direction, if there be any thing in it untrue, her Lady<g ref="char:EOLhyphen"/>ship having already appeared twice in Print in these matters, and thereby given occasion for the Printing of this.</p>
+            </div>
+         </div>
+         <div type="title_dispute">
+            <div type="section">
+               <pb n="4" facs="tcp:205732:6"/>
+               <ab type="claim">
+                  <label>The Lady <hi>Ivy</hi>'s Title.</label> THat <hi>Wapping</hi>-Marsh being one Hun<g ref="char:EOLhyphen"/>dred and Thirty Acres drowned Land, was, for a Moyty thereof, undertaken be<g ref="char:EOLhyphen"/>fore the <hi>27 Hen. 8.</hi> to be Inned and Drain<g ref="char:EOLhyphen"/>ed by one <hi>Vanderdelfe,</hi> who sold his Moy<g ref="char:EOLhyphen"/>ty to one <hi>Richard Hill,</hi> on whom that Moyty was by Act of Parliament, <hi>27 Hen. 8.</hi> setled.</ab>
+               <ab type="rebuttal">
+                  <label>The Answer to it.</label> THe Act of Parliament was undoubtedly so, and onely shews there was a Hundred and Thirty Acres to be Drained, and that <hi>Richard Hill</hi> having purchased <hi>Vanderdelfe</hi>'s interest, was to have one Moyty of it.</ab>
+               <ab type="claim">
+                  <note place="margin">2 <hi>Edw.</hi> 6.</note>A Lease produced by which <hi>Richard Hill</hi> lets sixteen Acres to one <hi>Clayton,</hi> a Butcher, for five years, lying along <hi>Gra<g ref="char:EOLhyphen"/>vel-Lane.</hi>
+               </ab>
+               <ab type="rebuttal"> This Lease (if really true) onely shews that <hi>Ri<g ref="char:EOLhyphen"/>chard Hill</hi> had Land there; which it may be he had, and probably he or his Son <hi>Jasper</hi> might after sell it to <hi>John Starkey</hi> (under whom it is Claimed now) before they sold any to <hi>Stepkins</hi> at all.</ab>
+               <ab type="claim">
+                  <lb/>
+                  <note place="margin">23 <hi>March</hi> 5 <hi>Edw.</hi> 6th.</note>A Deed whereby <hi>Richard Hill</hi> sells to <hi>Thomas Stepkins</hi> and his Heirs, for e<g ref="char:EOLhyphen"/>ver, sixteen Acres in <hi>Wapping</hi>-Marsh, in the Tenure of one <hi>Clayton,</hi> and fifteen A<g ref="char:EOLhyphen"/>crees and three Roods of Land in <hi>Wap<g ref="char:EOLhyphen"/>ping</hi>-Marsh, then in the possession of <hi>Ri<g ref="char:EOLhyphen"/>chard Hill,</hi> lying by the Pond in the said Marsh, and all those his Messuages, Pond, Lands, and Soil, in the Parishes of <hi>Step<g ref="char:EOLhyphen"/>ney</hi> and St. <hi>Mary Matfellon,</hi> or else<g ref="char:EOLhyphen"/>where in the County of <hi>Middlesex;</hi> and were parcel of hundred and thirty Acres, formerly Drowned, but not of the fifty three Acres that were <hi>Stepkins</hi>'s before the Drowning.
+<lb/>Note, <hi>The word is Drowning, and not Draining, in the Deed.</hi>
+                  <lb/>
+                  <hi>See Lady</hi> Ivy<hi>'s Answer to Dr.</hi> Which<g ref="char:EOLhyphen"/>cot<hi>'s Bill, 1677.</hi>
+               </ab>
+               <ab type="rebuttal"> This (if true) purports a most absolute sale of all the Lands <hi>Richard Hill</hi> had in the County of <hi>Middlesex;</hi> and yet the said <hi>Richard Hill,</hi> the 20 <hi>Oct.</hi> 6 <hi>Edw.</hi> 6. <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> last Will and Testament, settles the La<gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e bought of <hi>Vanderdelfe</hi> (of which, by the Deed, this appears to be part) on his Son <hi>Jasper Hill,</hi> with several Remainders over in Taile, which 'tis not likely he would have done, had he sold it away before; and as a very good Argument that it was so Entailed by <hi>Richard Hill</hi>'s Will, there appears on Record, a Fine and Re<g ref="char:EOLhyphen"/>covery suffered by <hi>Jasper Hill (Richard Hill</hi>'s Son) to <hi>Machelin</hi> and <hi>John Stepkins,</hi> of twenty Acres of Land, and a hundred Acres of fresh Marsh in <hi>White-Chappel, Stepney,</hi> and <hi>Wapping,</hi> the 3d of <hi>Eliz.</hi> which had been needless had it not been so En<g ref="char:EOLhyphen"/>tailed, and is an argument that <hi>Stepkins</hi> bought no<g ref="char:EOLhyphen"/>thing of <hi>Hill</hi> till that time: And yet in <hi>Trinity</hi>-Term, 1684, in a Cause 'twixt the Dean of Saint <hi>Paul</hi>'s, <hi>London,</hi> and Lady <hi>Ivy,</hi> about <hi>Shadwell</hi> Lands, a Deed was then given in Evidence, Da<g ref="char:EOLhyphen"/>ted 16 <hi>Apr.</hi> 6 <hi>Edw.</hi> 6. whereby <hi>Richard Hill</hi> sold twenty four Acres, and all the Lands he had in <hi>Stepney</hi> and <hi>Middlesex,</hi> to <hi>Thomas Stepkins:</hi> But this Deed having had the misfortune to be markt as found, and Sworn to be so, with a long Lease of a hundred twenty eight Years, and other Deeds, among the Writings of the Churches Lessee, it was not believed then, and one of the Witnesses that swore to the so finding those Deeds, was Per<g ref="char:EOLhyphen"/>jur'd upon't, and stood in the Pillory for it; and some of the said Deeds were then left in Court; by Rule of which, Dated <hi>June</hi> 1687, upon an In<g ref="char:EOLhyphen"/>formation against Lady <hi>Ivy</hi> for it, a Tryal is or<g ref="char:EOLhyphen"/>dered next Term.</ab>
+               <ab type="claim">
+                  <note place="margin">12 <hi>Nov.</hi> 5 <hi>&amp;</hi> 6, Phil. <hi>and</hi> Mary.</note>A Deed whereby <hi>Jasper Hill,</hi> Son of <hi>Richard Hill,</hi> sells all his Lands a<g ref="char:EOLhyphen"/>bout ninety two Acres, in the Marsh, and County of <hi>Middlesex,</hi> to <hi>Machelin</hi> and <hi>John Stepkins,</hi> and their Heirs; and is the Deed whereby Lady <hi>Ivy,</hi> in <hi>Easter</hi>-Term, <hi>1686,</hi> Claimed these Lands, with<g ref="char:EOLhyphen"/>out producing the foregoing Deed of the <hi>23d Mar. 5 Edw. 6.</hi> but in <hi>Easter</hi> and <hi>Tri<g ref="char:EOLhyphen"/>nity</hi> Term, <hi>1687,</hi> Lady <hi>Ivy</hi> to make Title to these Lands, produced that of the <hi>5th
+<pb n="5" facs="tcp:205732:6"/> Edw. 6th,</hi> without bringing out this at all.</ab>
+               <ab type="rebuttal">
+                  <hi>Note,</hi> Lady <hi>Ivy</hi>'s <hi>Wapping</hi>-Estate, came intirely into her power to sell and dispose of it in 1655; and when her Ladyship, in 1656, sold Land in <hi>Wapping</hi> to Mr. <hi>Arlibear,</hi> and in 1658, to <hi>Brian Harrison,</hi> Trustee for Mr. <hi>Wood,</hi> Copies of this Deed were given them; by which it appears (if they were rightly taken) that Livery and Seisin was Endorsed on the back of that Deed the 20th of <hi>Nov.</hi> in the 5th and 6th year of <hi>Philip</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> and 'tis notoriously known that Queen <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> Died the Seventeenth of that Month, and
+<pb n="5" facs="tcp:205732:6"/> that Queen <hi>Elizabeth</hi> was Proclaimed the same day.</ab>
+               <ab type="claim">
+                  <note place="margin">3 <hi>Eliz.</hi> &amp; 12 <hi>May,</hi> 4 <hi>Eliz.</hi>
+                  </note>And that <hi>Jasper Hill</hi> by Fine and Re<g ref="char:EOLhyphen"/>covery <hi>3 Eliz.</hi> and by Deed <hi>12th May 4 Eliz.</hi> conveyed twenty Acres of Land, and a hundred Acres of Marsh in <hi>White-Chappel, Stepney,</hi> and <hi>Wapping,</hi> to <hi>Macheline</hi> and <hi>John Stepkins</hi> and their Heirs.</ab>
+               <ab type="rebuttal"> This is not denied to be true, and is a great argument against the truth of the foregoing Deeds, it being not credible that this Fine was levied in pursuance of either of those Deeds, it being done so long after, and there being also a Deed by Lady <hi>Ivy</hi>'s own shewing, dated the 12th of <hi>May</hi> following, 4 <hi>Eliz.</hi> to convey the Lands in that Fine comprized; but that Deed not naming the Lands in question, was neither produced in <hi>Easter</hi>-Term 1686, nor in <hi>Easter</hi> nor <hi>Trinity</hi>-Term 1687, but was in a Tryal in <hi>Trinity</hi>-Term 1684, but 'twas in another cause, and the contents of it took at that time.</ab>
+               <ab type="claim">
+                  <note place="margin">4 <hi>Eliz.</hi>
+                  </note>
+                  <hi>Richard Hill,</hi> having the <hi>3</hi> Dec. <hi>32 Henry</hi> the <hi>8th,</hi> entred into a Statute to one <hi>Vivald,</hi> and <hi>Salvago,</hi> all the Lands which he was possest of after that time, being one hundred and thirteen Acres were extended, and among them the Lands in question, and that that Extent was pur<g ref="char:EOLhyphen"/>chased in by <hi>Stepkins.</hi>
+               </ab>
+               <ab type="rebuttal"> This Extent was undoubtedly made, but af<g ref="char:EOLhyphen"/>fects not at all the Creditors nor <hi>Jolliff</hi>'s Title, for the ten Acres of Freehold-Land that was <hi>Nel<g ref="char:EOLhyphen"/>throp</hi>'s in right of his Wife, sole Heir of <hi>John Star<g ref="char:EOLhyphen"/>key,</hi> in the 10 <hi>Eliz.</hi> and <hi>Pruson</hi>'s Island might have been (we do not say 'twas) <hi>Richard Hill</hi>'s since the 32 <hi>Hen.</hi> 8. and yet no part of what was sold to <hi>Stepkins</hi> the 3 <hi>Eliz.</hi> and for the twelve Acres of Copyhold, 'tis plain it was <hi>Richard Hill</hi>'s, and by his Son <hi>Jasper</hi> sold to <hi>John Stepkins,</hi> under whom the Creditors, by uninterrupted Surrenders, all a<g ref="char:EOLhyphen"/>long down on Record, do make out their Title to it.</ab>
+               <ab type="claim">
+                  <note place="margin">14 <hi>Eliz.</hi>
+                  </note>A Presentment of <hi>Sewer</hi>'s finding twelve Acres in possession of <hi>Walthall</hi> and <hi>Wood<g ref="char:EOLhyphen"/>cock,</hi> as the Freehold of <hi>Stepkins,</hi> and part of the Lands in question.</ab>
+               <ab type="rebuttal"> It seems to be very much, and in many places razed, and not legible; and is not produced by the hands of the proper Officer.</ab>
+               <ab type="claim">
+                  <note place="margin">14 <hi>June,</hi> 15 <hi>Eliz.</hi>
+                  </note>
+                  <hi>John Stepkins,</hi> as Surety for <hi>William Patent,</hi> Convenanted to Pay to the Queen <hi>7928 <hi>l.</hi> 7 <hi>s.</hi> 11 <hi>d.</hi> ½.</hi> and to secure it, le<g ref="char:EOLhyphen"/>vied a Fine, and conveyed an Estate to Trustees for the Queen: in which Convey<g ref="char:EOLhyphen"/>ance, <hi>inter alia,</hi> is mentioned four Acres of Meadow, with a Pond and Island, in the possession of <hi>Alice Woodcock;</hi> which La<g ref="char:EOLhyphen"/>dy <hi>Ivy</hi>'s Council do say, is the Ground now called <hi>Pruson</hi>'s Island. And the said <hi>John Stepkins</hi> at that time did give Bond to perform Covenants, which Bond being for<g ref="char:EOLhyphen"/>feited, in the <hi>19 Eliz.</hi> the rest of his E<g ref="char:EOLhyphen"/>state was extended, and not released till <hi>7 Jacobi, 1609,</hi> and then restored to the <hi>Stepkinses</hi> again. And Lady <hi>Ivy</hi> in her printed Paper affirms, that most of the Lands in the Extent <hi>4 Eliz.</hi> are mentioned in this, and particularly all the Lands in dispute; and thence would infer, that these were <hi>Stepkins</hi>'s Lands at that time, and, if so, ought to be hers now.</ab>
+               <ab type="rebuttal"> That <hi>John Stepkins,</hi> as Surety for <hi>Patent,</hi> being in Debt to the Queen, made over his Estate to Tru<g ref="char:EOLhyphen"/>stees for her use, and that 'twas after Extended, and not released till 7 <hi>Jac.</hi> is true. But, <hi>Note,</hi> in the Conveyance to the Trustees for the use of the Queen, there is but a very few Acres mentioned as lying in <hi>Wapping</hi>-Marsh; and in the extent and Lease to <hi>Alice Stepkins,</hi> by the Queen, 19 <hi>Eliz.</hi> fifty Acres in <hi>Wapping</hi>-Marsh onely are mentioned, which seems to make out that <hi>Stepkins</hi> had no more there at that time; and among those, none of the Lands now in question are any way named or described: For, as for the four Acres of Meadow, with a Pond &amp; Island, in the possession, at that time, of <hi>Alice Woodcock,</hi> it may, with much more of rea<g ref="char:EOLhyphen"/>son, be taken to be the four Acres of Land, with the place where there was then both a Pond and Island, lying <hi>East</hi> of <hi>Pruson</hi>'s Island; whereof three Acres was sold to <hi>Brian Harrison,</hi> Trustee for <hi>William Wood,</hi> 1658; and the rest to Mr. <hi>Arlibear</hi> in 1656; both by Deeds enrolled by Lady <hi>Ivy</hi> her self. Besides, had these Lands now in question, been then so convey'd to the use of the Queen, and extended, and so remained till 1609, 'tis not to be imagined that they could during that time have been sold, as plain 'tis they were on Record, by <hi>Sleford</hi> to <hi>Tailford,</hi> the 24 <hi>Eliz.</hi> and by <hi>Cross</hi> to <hi>Bennet,</hi> the 43 <hi>Eliz.</hi> of whom <hi>Richard Glover</hi> bought; and several Sur<g ref="char:EOLhyphen"/>renders were made of the Copyhold-Land in that time, and particularly that to <hi>Richard Glo<g ref="char:EOLhyphen"/>ver</hi> (under whom the Creditors Claim) in 1603: As were also the Sales by <hi>Peter Osborne</hi> to <hi>Woodshaw,</hi> 25 <hi>Eliz.</hi> 1583. and by <hi>James Woodshaw</hi> to <hi>Richard Glover,</hi> 3 <hi>Jac.</hi> 1604; under which <hi>Pruson</hi>'s Island was quietly enjoyed till 1679; and under which the Heirs of <hi>Rebecca</hi> now Claim.</ab>
+            </div>
+            <div type="section">
+               <pb n="6" facs="tcp:205732:7"/>
+               <ab type="counterclaim">
+                  <label>To Answer the Possession, Lady <hi>Ivy</hi> says, That</label>
+                  <note place="margin">6 <hi>Novemb.</hi>
+                  </note>
+                  <hi>14 Eliz. 1572. John Stepkins</hi> Demised twelve Acres and other Lands, of which these were part, with an Island and Pond, to <hi>Anthony Walthall</hi> and <hi>John Wood<g ref="char:EOLhyphen"/>cock,</hi> for <hi>62</hi> years: And that</ab>
+               <ab type="rebuttal"> If there was such a Lease as <hi>per contra</hi> made by <hi>John Stepkins</hi> to <hi>Walthall</hi> and <hi>Woodcock</hi> for sixty two years, from 1572. and that the same was made o<g ref="char:EOLhyphen"/>ver to <hi>Richard Glover</hi> in 1602.</ab>
+               <ab type="counterclaim">
+                  <lb/>
+                  <note place="margin">13 <hi>Nov.</hi>
+                  </note>
+                  <hi>44 Eliz. 1602. Walthall</hi> and <hi>Wood<g ref="char:EOLhyphen"/>cock</hi> mortgaged the same to <hi>Richard Glo<g ref="char:EOLhyphen"/>ver.</hi>
+                  <lb/>
+                  <note place="margin">1 <hi>Novemb.</hi> 1613.</note>That <hi>Anthony Walthall</hi> and <hi>Thomas Woodcock,</hi> Son of <hi>John,</hi> surrendred and released to <hi>John Stepkins.</hi>
+                  <lb/>
+                  <note place="margin">8 <hi>Septemb.</hi> 1619.</note>That <hi>Richard Glover</hi> being in posses<g ref="char:EOLhyphen"/>sion, under the Lease to <hi>Walthall</hi> and <hi>Woodcock,</hi> and one <hi>Pruson</hi> claiming some Interest under <hi>Glover,</hi> they both released to <hi>John Stepkins.</hi>
+               </ab>
+               <ab type="rebuttal">'Tis very strange, that the said <hi>Richard Glover,</hi> if he had no other Title but that Lease at that time, should presume to let Leases of Lands there<g ref="char:EOLhyphen"/>in comprized, as he really did to <hi>Pruson</hi> and <hi>Watts,</hi> for Terms that would not expire till long after that Lease, (and Enjoyment went with them) and much stranger it is that they should accept of such Leases, and consider his Title no better, it be<g ref="char:EOLhyphen"/>ing Building-ground on which they laid out their Estates. Besides, if <hi>Walthall</hi> and <hi>Woodcock</hi> mortga<g ref="char:EOLhyphen"/>ged the same to <hi>Richard Glover</hi> in 1602. and that he was in possession of it under that Lease in 1619. as the Surrender made by <hi>Pruson</hi> and him of it, shews he was till that time, how came <hi>Anthony Walthall</hi> and <hi>Thomas Woodcock</hi> to have it to surren<g ref="char:EOLhyphen"/>der or release to <hi>John Stepkins,</hi> 1 Nov. 1613. which Serjeant <hi>Francis Brampston</hi> swears was the date of that Release? And if <hi>Walthal</hi> and <hi>Woodcock</hi> had it to surrender, and did surrender it in 1613. to <hi>John Stepkins,</hi> how came <hi>Glover</hi> and <hi>Pruson</hi> to have it again to surrender in 1619? This is very strange, if true. <hi>Note,</hi> The Release dated in 1613. was produced when the following fifty six years Lease first was in 1675. and the other Release not till some years after, when discovered, it was that <hi>Richard Glover</hi> was possest of that Land all the time between 1613. and 1620. so that the first Release was not late enough to justifie the making of the next Lease for fifty six years.</ab>
+               <ab type="counterclaim">
+                  <lb/>
+                  <note place="margin">5 <hi>August</hi> 1620.</note>
+                  <hi>John Stepkins</hi> demises the Premisses in question, <hi>inter alia,</hi> to <hi>Richard Glover</hi> for fifty six years, at a red Rose for the first ten years, and after that, at <hi>20 <hi>l.</hi>
+                  </hi> yearly payable to Mr. <hi>Stepkins,</hi> his Executors, and Assignes; and the Rent being so reserved, and not to his Heirs, the Council for Lady <hi>Ivy,</hi> says, It was not payable to his Heirs, and so ceased, but that <hi>120 l.</hi> was paid for the first seven years, to Lady <hi>Ivy</hi>'s Father, as did appear by <hi>Whitfield</hi> her Fathers Stewards Book of Accounts, which had been produced at a former Tryal, and al<g ref="char:EOLhyphen"/>lowed as Evidence, but was since burnt in the Fire at <hi>Wapping.</hi>
+                  <lb/>Sir <hi>John Brampston</hi> swore he believed 'twas his Fathers Hand that was set as a Witness to it; and Serjeant <hi>Brampston</hi> in his Deposition taken <hi>1675.</hi> to perpetuate his Testimony, swears so too; and that about six or seven years before his Examination in <hi>1675.</hi> looking among Lady <hi>Ivy</hi>'s Writings, left with him by his Brother Sir <hi>John,</hi> who was Executor to his Father, he did find a Deed with the name <hi>Richard Glover</hi> set thereto as a Party, but did not then read the same, but believes the Deed on which he
+<pb n="7" facs="tcp:205732:7"/> was examined (being the said fifty six years Lease) was the same Deed he so found, and on the Suit with <hi>Bateman,</hi> did deliver many Writings and Evidences to Lady <hi>Ivy,</hi> and advised her to read them over, and that among them she told him she found this fifty six years Lease; and in her Answer to Sir <hi>Robert Cotton</hi>'s Bill, put in against her, <hi>1675.</hi> she also swears she so found the said Lease in <hi>May 1675.</hi> and does acknowledge in that her said Answer, that she did not know of the said Lease, nor of the Rent thereon received.</ab>
+               <ab type="rebuttal">
+                  <lb/>Against the probability of the truth of this Lease,
+<lb/>
+                  <hi>Note,</hi> Likeness of Hands, and payment of Rent, no better proved than <hi>per contra,</hi> without any thing else, is but a slender Testimony to support a su<g ref="char:EOLhyphen"/>spected Deed, which this may deserve to be, for the following Reasons.
+<lb/>'Tis not pretended 'twas known to Lady <hi>Ivy,</hi> till found by her, when wanted in 1675: and if it had been known,
+<lb/>What is said as an excuse why the Rent was not paid, (being reserved to the Lessor, his Executors, and not Heirs) is of no weight; for it might have been helpt in Chancery. Besides, had that been the reason why the Rent was not asked nor paid, <hi>Note,</hi>
+                  <lb/>
+                  <hi>Richard Glover</hi> (who Lady <hi>Ivy</hi> goes about to prove paid the first six years Rent) would ne<g ref="char:EOLhyphen"/>ver have paid any to her Father <hi>John Stepkins,</hi> he being the Son of that <hi>John Stepkins,</hi> who is sup<g ref="char:EOLhyphen"/>posed to have lett this Lease in 1620, and died in 1624. so that way no Rent had been due at all.
+<lb/>
+                  <hi>Richard Glover</hi> in 1616. died, and by his Will gave several of his Children 500 <hi>l.</hi> apiece, and particularly <hi>Mary;</hi> and if the Money was not paid accordingly by <hi>Richard Glover</hi> his Son, who is sup<g ref="char:EOLhyphen"/>posed to have taken this Lease, he devises his <hi>Wap<g ref="char:EOLhyphen"/>ping</hi>-Lands
+<pb n="7" facs="tcp:205732:7"/> over to his said Children, and <hi>Mary</hi>'s Portion being not paid, <hi>George Almery,</hi> her Hus<g ref="char:EOLhyphen"/>band, enters; and on payment of the said 500 <hi>l.</hi> in 1624. resettles (by Fine and Deed particularly naming these Lands) the same on <hi>Richard Glover</hi> again; whose thus accepting a Fine, had been a forfeiting the Lease, had he held it by one at that time.
+<lb/>Lady <hi>Ivy</hi>'s Father's and Grandfather's Wills, e<g ref="char:EOLhyphen"/>numerating all their Lands to very sm<gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arcels, take no <gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ce at all of this Lease, nor of any Land in it comprized, but only as a Boundary to their own.</ab>
+               <ab type="counterclaim">
+                  <lb/>And yet as
+<lb/>A farther proof of this Lease (it having been sometime sworn that one <hi>Duffett</hi> said, he was making a Writing he called <hi>Glover</hi>'s Lease about <hi>1671.</hi>)
+<lb/>Lady <hi>Ivy,</hi> to shew 'twas known in <hi>1664.</hi> and if so, could not be made in or about <hi>1671.</hi> does produce.
+<lb/>A Deed wherein the said Lease is recited, being a Conveyance (executed by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Ivy</hi> and his Lady, of the Inheri<g ref="char:EOLhyphen"/>tance of five Acres of Land on which <hi>King-street</hi> in <hi>Wapping</hi> is built, to <hi>Edward Burtbee</hi> and <hi>Edward Temple,</hi> in Trust to secure <hi>800 l.</hi> to Sir <hi>Thomas Ivy,</hi> by <hi>100 l.</hi> yearly, till Principal and Interest paid, with a Covenant to levy a Fine. And to prove this Deed, she produced <hi>Edward Burtbee</hi> himself, who swears very home to the matter, and says, he was Party to it, but the Witnesses are all dead.
+<lb/>A Fine was levied to <hi>Burtbee</hi> and <hi>Tem<g ref="char:EOLhyphen"/>ple,</hi> of five Acres of Land in <hi>Stepney</hi> and <hi>Middlesex.</hi>
+                  <lb/>And that under the Lease to <hi>Walthall</hi> and <hi>Woodcock</hi> for sixty two years, and this Lease thus taken of <hi>John Stepkins</hi> by <hi>Richard Glover</hi> for fifty six years.
+<lb/>All the Possession of such as have claim<g ref="char:EOLhyphen"/>ed all along under him, has been.
+<lb/>Several Verdicts, and in favour of the foregoing Title, are by Lady <hi>Ivy</hi> produced; and as a very great Argument of the truth of her Deeds, is alledged the very great dif<g ref="char:EOLhyphen"/>ficulty of making so many, as there must have been made, if any there be in her Case.</ab>
+               <ab type="rebuttal">
+                  <lb/>
+                  <hi>Note,</hi> There was a Lease lett by <hi>Richard Glover</hi> to <hi>Aaron Williams</hi> of the five Acres, being part of the twelve Acres of Copyhold-Land, on which <hi>Kingstreet</hi> in <hi>Wapping</hi> is built, for fifty years (with License from the Lord of the Mannor to lett for so long) from 1630. at 20 <hi>l.</hi> yearly Rent; 'twas a building-Lease, and such part of it as <hi>Aaron Wil<g ref="char:EOLhyphen"/>liams</hi> built not himself, he disposed of to others. And as 'tis something hard to imagine that <hi>Richard Glover</hi> (who was a man of Repute) if he had but forty six years in it in 1630. should lett it for fifty years, so 'tis very much harder to believe that <hi>Aaron Williams,</hi> (who was a great Builder in several places) and those under him, should accept of a Lease (and build on it) for a longer term than <hi>Richard Glover</hi> could have lett, had he held it by this now produced Lease for fifty six years from 1620. which if true, could not have been but pub<g ref="char:EOLhyphen"/>lickly known at that time; which very Lease so lett to <hi>Aaron Williams</hi> as aforesaid, Lady <hi>Ivy</hi> pur<g ref="char:EOLhyphen"/>chased in 1659. and gave about 2000 <hi>l.</hi> for it, and so got the possession of it, as she in her own Answer to Sir <hi>Robert Cotton</hi>'s Bill in 1676. does confess, and is a great Argument she believed it a good Lease; and that 20 <hi>l.</hi> yearly Rent was paid to <hi>Bateman</hi> for it, is plain, if the Answer of one <hi>Michael Oldsworth</hi> (of whom Lady <hi>Ivy</hi> purchased the said Lease) to a Bill put in against him by the Relations of one <hi>William Thomas</hi> (to whom <hi>Oldsworth</hi> was Execu<g ref="char:EOLhyphen"/>tor, and so came possest of this Lease) for an Ac<g ref="char:EOLhyphen"/>count of the Estate of the said <hi>William Thomas,</hi> may be believed, as it must in other cases, (though no Evidence in this, because it being in another Cause, may not in this be read) That in the Ac<g ref="char:EOLhyphen"/>count says thus: Paid Sir <hi>Anthony Bateman</hi> Arrears of Rent at <hi>Wapping,</hi> 20 <hi>l. per ann.</hi> 150 <hi>l.</hi>
+                  <lb/>And the said Lady <hi>Ivy</hi> being so in possession of the five Acres, on which <hi>Kingstreet</hi> is built, by ha<g ref="char:EOLhyphen"/>ving got <hi>Aaron Williams</hi> his Lease into her own hands, brought an Ejectment about 1675. against the Creditors of Sir <hi>Anthony Bateman,</hi> who then were possest of the other seventeen Acres, and they claiming under a Bankrupt, who refused to assist them, and knowing not how to defend their Title, and Lady <hi>Ivy</hi> having the good fortune to make those Deeds against which so much is said in this Paper, and espe<g ref="char:EOLhyphen"/>cially the fifty six years Lease from 1620, to be believed as true Deeds, she got a Verdict and Judgment then for the said seventeen Acres about 1676. and held the same till a Verdict was given against her in <hi>Easter</hi>-Term 1686. for the whole twenty two Acres, upon the now Cre<g ref="char:EOLhyphen"/>ditors Title, such Evidence being then given, as made this fifty six years Lease, and other Deeds, not believed.</ab>
+            </div>
+            <div type="section">
+               <p>The Deed dated <hi>February</hi> 1664. setling the Inheritance of the five Acres of Land, on which <hi>King-street</hi> in <hi>Wapping</hi> is built, on one <hi>Edward Burtbee</hi> and <hi>Edward Temple,</hi> for the se<g ref="char:EOLhyphen"/>curing 800 <hi>l.</hi> by 100 <hi>l.</hi> yearly to Sir <hi>Thomas Ivy,</hi> in which the 56 years Lease is recited,
+<pb n="8" facs="tcp:205732:8"/> seems to have been made for the sake of that very Recital, and cannot in reason be true: for, <hi>Note,</hi> Lady <hi>Ivy</hi> having purchased <hi>Aaron Williams</hi> his Lease, as aforesaid, and that being in <hi>December</hi> 1664. mortgaged to <hi>Joseph Sabberton</hi> and <hi>Edward Simonds</hi> for 800 <hi>l.</hi> and Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Ivy</hi> then offering to lay down that Money, so he might have it secured him out of the said Lease, the same Lease was made over 26 <hi>Decemb.</hi> 1664. to <hi>Richard</hi> and <hi>John Estcourt,</hi> and <hi>Thomas Nevil,</hi> who the 25th of <hi>February</hi> 1665. assigned the same to Sir <hi>Robert Killigrew,</hi> Sir <hi>William Salkeild,</hi> and <hi>Benjamin Thornburgh,</hi> new Trustees for that purpose: but Sir <hi>Thomas</hi> not receiving the Rents, and his 800 <hi>l.</hi> remaining unpaid, and he differing with his Lady in 1671. put in a Bill against her and Serjeant <hi>Brampston,</hi> about this very business, charging the Serjeant with Confederacy with his Wife: and setting out the whole matter of the Securi<g ref="char:EOLhyphen"/>ty made him of that Lease, complain <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ill usage he had had, and desires relief, and yet says not one word of the Inheritance now pretended to be made over to <hi>Burtbee</hi> and <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> for him, and to which Deed he himself, 'tis pretended, was Party. And Lady <hi>Ivy</hi> in her Answer to the said Bill, takes only notice of the Lease by her Purchased, and so Mortgaged to <hi>Sabberton</hi> and <hi>Simonds,</hi> as aforesaid, and not one word of this Inheritance-Deed: Nor does a Bill exhibited against Sir <hi>Thomas Ivy</hi> in <hi>Feb.</hi> 1669. by Sir <hi>Robert Killigrew,</hi> Sir <hi>William Salkeild,</hi> and <hi>Benjamin Thornburgh,</hi> the Trustees by Lady <hi>Ivy</hi>'s direction, setting out also this Security thus made of the Lease (therein named to be made by <hi>Richard Glover</hi> to <hi>Aaron Williams</hi> for fifty years from 1630.) for 800 <hi>l.</hi> by 100 <hi>l.</hi> yearly to Sir <hi>Thomas Ivy,</hi> nor Sir <hi>Thomas Ivy</hi>'s Answer to it, (confessing the security was so made to him of the Lease) say any thing at all of this Inhe<g ref="char:EOLhyphen"/>ritance-Deed, nor take any notice of <hi>Edward Burtbee,</hi> but as one only who being authorized by the last-named Trustees, and Lady <hi>Ivy,</hi> to receive the Rents, did employ one <hi>Edward Temple,</hi> for some time, for that purpose, and that afterwards one <hi>Perrot</hi> was by Lady <hi>Ivy</hi> au<g ref="char:EOLhyphen"/>thorized and employed to receive those Rents. So that 'tis sence to believe that <hi>Edward Burtbee</hi> and <hi>Edward Temple</hi> were no otherwise (with the knowledge of Sir <hi>Thomas Ivy</hi>) concern'd in this matter, but as Rent-gatherers only in manner aforesaid: and nonsence it is to imagine there could be such an Inheritance-Deed made and assigned in Trust for Sir <hi>Thomas</hi> to <hi>Burtbee</hi> and <hi>Temple</hi> at that time, and no notice in that Controversie be taken of it at all, considering also that that Lease was at that time within nine years of expiring, and also not worth any thing, had the fifty six years Lease been true.</p>
+               <p>And farther, to demonstrate that it cannot be with reason believed that the fifty six years Lease from 1620. could be recited in a Deed made in 1664 that was perused by Serjeant <hi>Brampston</hi> and he a Witness, and Lady <hi>Ivy</hi> a Party to it: <hi>Note,</hi> Serjeant <hi>Brampston,</hi> when examined for Lady <hi>Ivy</hi> in this Cause in 1675. to perpetuate his Testimony, being in the fourth Interrogatory asked, When and how long it was since he FIRST saw the Counterpart of the Lease (explained to be this fifty six years Lease in the second Interro<g ref="char:EOLhyphen"/>gatory) and where and among whose Evidences, Papers, and Writings, he did FIRST see the same; in answer deposeth, That having several Boxes and Bags of Writings to him delivered by his Brother Sir <hi>John,</hi> that were in the possession of Sir <hi>John Brampston</hi> his Fa<g ref="char:EOLhyphen"/>ther, at the time of his death, to be by him kept, he was desired by one Sir <hi>Charles Stepkins,</hi> about six or seven years since, to search among the said Writings for the Counterpart of a Lease made to one <hi>Bourne;</hi> and that upon this Deponents THEN searching, he did find a Deed with the name <hi>Richard Glover,</hi> as a Party set to it; but saith, he did not THEN read the same, and that these Bags and Boxes of Writings, he after delivered to Lady <hi>Ivy,</hi> and among them she told him she found this Lease.</p>
+               <p>Now if Serjeant <hi>Brampston</hi> swears true, that the FIRST time he found (which in common Speech is as much as to say he knew not of it before) a Deed under <hi>Glover</hi>'s hand, (which might well be the Lease lett by <hi>Richard Glover</hi> to <hi>Aaron Williams,</hi> which Lady <hi>Ivy</hi> had purchased) were but six or seven years before 1675. how then was it possible that it could be (by him) for so <hi>Burtbee</hi> swore 'twas) recited in a Deed made in 1664? And had it been so recited as now 'tis pretended it was, in a Deed made in 1664. to which Lady <hi>Ivy</hi> was Party, it must have been known to her self; which in her Answer to Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Cotton</hi>'s Bill, she swears it was not, but that it was by her found in <hi>May</hi> 1675. in an old Bag of Writings. And Serjeant <hi>Brampston</hi>'s Deposition also says, That she at that time told him that she did find it so; so that it is not hard to believe this Deed (never produ<g ref="char:EOLhyphen"/>ced till <hi>Easter</hi>-Term 1686.) was made for the purpose aforesaid, since to support the truth of this Deed, there is nothing more than barely the Oath of one <hi>Edward Burtbee,</hi> a man well known about Town, and that has been all a long employed by the Lady <hi>Ivy;</hi> and so not unlikely to have been in the Secret.</p>
+               <p>For the Fine, if the Deed of Uses be not true, it may be of any other five Acres: But, <hi>Note,</hi> 'twas Levied two years after 1664. Just about the time that Sir <hi>Anthony Bateman</hi> fail<g ref="char:EOLhyphen"/>ed, and when Lady <hi>Ivy</hi> set up to Claim the Inheritance of it, nor is it without some suspi<g ref="char:EOLhyphen"/>cion of having been unduly levied (it may be) by passing the Offices without the knowledge of Sir <hi>Tho. Ivy,</hi> and Lord Chief Justice, the Roll where the Caption of it, to which the Lord
+<pb n="9" facs="tcp:205732:8"/> Chief Justices Hand should be in the <hi>Custos Bremium</hi> Office, being lost. And if that Fine was really levied by Sir <hi>Thomas Ivy,</hi> which is still to be doubted, for the reason aforesaid, 'tis not however to be wondred at much, considering that he had covenanted to do any Act with the Land in that Lease, his Lady should desire, so it might be no prejudice to the pay<g ref="char:EOLhyphen"/>ment of his 800 <hi>l.</hi> as aforesaid. And it may be he was made believe at that time, that it was her Inheritance by being showed the Deed of the 12 <hi>Nov.</hi> 5 and 6 <hi>Ph.</hi> and <hi>Mary,</hi> which was before that time made, and if any Deed there was made to <hi>Edward Burtbee</hi> and <hi>Edward Temple</hi> to lead the use of this Fine of five Acres, 'tis plain it could not be a Deed dated in <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> 1664. reciting this fifty six years Lease for the reasons aforesaid; but must have been some other Deed, after that time made and designed as this Fine se<gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have been in future times to make out some Colourable T<gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> to the <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vy</hi> held only by <hi>Aaron Williams</hi> his Lease, that <gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pired at <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 1681. And that 'twa privately done, is plain: for neither the Fine nor the Deed was ever in any Tryal produced, till <hi>Easter</hi>-Term, 1686.</p>
+               <p>All that is to be said to the Verdicts is, They were given at times when the Creditors Title, and that to <hi>Pruson</hi>'s Island, were not well made understood to the Court and Jury, and when Lady <hi>Ivy</hi>'s Deeds were believed.</p>
+               <p>As for the difficulty of making of Deeds, a great many may as well be imagined to be made, as one single Deed, where the ingenuity of the party concerned, and the nature of the Title and place, afford good materials for it. And</p>
+               <p>The Reader is now desired to take Notice,</p>
+               <p>That <hi>Wapping</hi>-Marsh was one hundred and thirty Acres drowned Land in <hi>Henry</hi> the 8th's time, undertook to be Drained by one <hi>Vanderdelfe,</hi> and so setled by Parliament, that when Drained, it should be equally divided 'twixt the Proprietors and <hi>Richard Hill,</hi> who had bought <hi>Vanderdelfe</hi>'s half. And</p>
+               <p>That no Division (though undoubtedly one there was (it may be among themselves) made) is now to be found on Record: And <hi>Jasper Hill,</hi> 3 <hi>Eliz.</hi> by Fine and Recovery ha<g ref="char:EOLhyphen"/>ving sold to <hi>Macheline</hi> and <hi>John Stepkins,</hi> 20 Acres of Land, and 100 Acres of Marsh in <hi>Stepney</hi> (that being the first Sale on Record.) 'Tis in the power of Lady <hi>Ivy</hi> (as Heir of <hi>Stepkins</hi>) to Claim any part of the Marsh by alledging, 'twas part of what her Ancestors purchased; if to answer the Possession, there can any way Lease be se<gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> and by <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lady <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> onely, in finding <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Leases, since long Disputed have been <gap reason="illegible" resp="#uom" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Prop<gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>etors (no Division appearing) being able to make no Title, unless to the Copyhold, before that pur<g ref="char:EOLhyphen"/>chased by <hi>Stepkins,</hi> 3 <hi>Eliz.</hi> By such Lease she may claim any parcel she will, though the Owners thereof have had it ever since the Draining thereof; which could not be done in a<g ref="char:EOLhyphen"/>nother place, and makes it much easier to have been done, than it can be imagined here.</p>
+               <p>And to remember, That</p>
+               <p>The Title by which the Creditors claim the Ten Acres of Free-hold, and Twelve Acres of Copy-hold Land, and whereby the Heirs of <hi>Whichcot</hi> do claim <hi>Pruson</hi>'s Island, and under which those Lands were all quietly held and enjoyed, till after Sir <hi>Anthony Bateman</hi> failed, is, by Copies of Court Roll, and Deeds on Record, against the truth of which there has never yet been, nor ever can be the least sort of Pretence; And that</p>
+               <p>The Title whereby Lady <hi>Ivy</hi> Claims in particular any of the aforesaid Lands, and where<g ref="char:EOLhyphen"/>by she both Got and does Hold the same, is by Deeds, not only not on Record, but most of them such, as first have been Lost, and then Found, and that are lyable to more Exceptions by many, then are herein before exprest, which will be made use of against them when oc<g ref="char:EOLhyphen"/>casion shall serve.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>Page</hi> 2 <hi>for</hi> 20 Eliz. 1576. <hi>read</hi> 1578. <hi>Pag.</hi> 6. 25 <hi>line, for</hi> 7 <hi>read</hi> 6 <hi>years.</hi>
+            </p>
+            <pb facs="tcp:205732:9"/>
+            <pb facs="tcp:205732:9"/>
+            <pb facs="tcp:205732:10"/>
+            <pb facs="tcp:205732:10"/>
+            <pb facs="tcp:205732:11"/>
+            <pb facs="tcp:205732:11"/>
+            <pb facs="tcp:205732:12"/>
+            <pb facs="tcp:205732:12"/>
+         </div>
+      </back>
+   </text>
+</TEI>
